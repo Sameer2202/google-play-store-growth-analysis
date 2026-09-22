@@ -47,7 +47,7 @@ Loaded raw CSV data into MySQL, then:
 - Removed duplicate app entries and one irreparably malformed row
 - Wrote 8 analysis queries answering the project's key business questions
 
-📄 See [`/sql/analysis_queries.sql`](sql/analysis_queries.sql)
+📄 See [`/sql/analysis_queries.sql`](SQL/analysis_queries.sql)
 
 ### 2. Exploratory Data Analysis — Python
 - Validated data types and null distributions post-cleaning
@@ -55,7 +55,7 @@ Loaded raw CSV data into MySQL, then:
 - Calculated correlation coefficients (not just visual trends) between rating/size and installs
 - Ran sentiment analysis on user reviews, aggregated by category
 
-📄 See [`/notebooks/play_store_eda_and_ab_testing.ipynb`](notebooks/play_store_eda_and_ab_testing.ipynb)
+📄 See [`/notebooks/play_store_eda_and_ab_testing.ipynb`](Notebook/play_store_eda_and_ab_testing.ipynb)
 
 ### 3. Hypothesis / A/B Testing — Python (scipy)
 Rather than assuming relationships from charts alone, two hypotheses were tested statistically:
@@ -105,4 +105,4 @@ This analysis gives product and growth teams a data-backed basis for prioritizin
 ## Author
 
 **Sameer Thite** — MBA in Business Analytics | Aspiring Data Analyst
-[LinkedIn](#) · [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/sameer-thite-662b64215) · [Portfolio](#)
