@@ -4,7 +4,7 @@ An end-to-end data analytics project analyzing 10,000+ Google Play Store apps to
 
 🔗 **[Live Interactive Dashboard](https://public.tableau.com/views/GooglePlayStore-GrowthDecisionsDashboard/Dashboard1)**
 
-![Dashboard Preview](Dashboard/Dashboard Screenshot.png)
+![Dashboard Preview](Dashboard/Dashboard_Screenshot.png)
 
 `SQL` `Python` `Data Visualization` `EDA` `A/B Testing Analysis` `Tableau`
 
